@@ -26,7 +26,3 @@ The dimensions of a matrix give the number of rows and columns of the matrix in 
 If this is new to you, I recommend that you check out a lesson covering "intro to matrices"...with that said,
 
 As long as the dimensions of two matrices are the same, we can add and subtract them much like we add and subtract numbers.
-
-P.S:
-
-This project was a well repspect learning process because I had very little to no experience with Python before starting the project. Now, I'm pretty confident in the using Python as a programming language and will reccomend to anybody who deals with high dimensional matrices
