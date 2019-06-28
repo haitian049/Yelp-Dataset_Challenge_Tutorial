@@ -21,6 +21,7 @@ Hence, matrix algebra (Linear Algebra) is required to make this bizzare concept 
 A matrix is a rectangular arrangement of numbers into rows and columns. Each number in a matrix is referred to as a matrix element or entry. Below is a example matrix we will name "Matrix A" :
 
 1 2 3
+
 4 5 6
 
 The dimensions of a matrix give the number of rows and columns of the matrix in that order. Since "matrix A" has 2 rows and 3 columns, it is called a 2×3 matrix.
