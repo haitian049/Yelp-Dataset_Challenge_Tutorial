@@ -6,7 +6,7 @@ Natural Language processing, in particular, is how to program computers to proce
 Where can you find natural language data? That's right, in the Yelp dataset which contains 2.2 Million reviews on businesses from 552,000 users.
 Wow, that's a lot of reviews and processing which can end up being a tideous nightmare, however, computers gives us a leverage of processing huge amounts of data in a fraction of the time.
 
-Instead of reading through all those reviews and processing the data ourselves , we can teach the computer a algorithm that will do the job for us.
+Instead of reading through all those reviews and processing the data ourselves , we can teach the computer an algorithm that will do the job for us.
 Python is a efficent and easy programing language that can be used to write our algorithm which in return will process our natural language data.
 
 Now, once our data has been processed we can use it as input data for our machine learning algorithm (Artificial Intelligence). Our algorithm will learn our natural language data after it has been processed and create vocabulary. This vocabulary will have every word interconnected in a high dimensional matrix we can later use to execute concepts like word algebra.
